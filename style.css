@@ -175,7 +175,7 @@ button:hover{
     width: 100%;
     justify-content: space-between;
     margin: 0;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 200;
     letter-spacing: 0.5px;
     bottom: 35px;
@@ -395,7 +395,7 @@ small{
     }
 
     .d{
-        font-size: 25px;
+        font-size: 23px;
     }
 
     
